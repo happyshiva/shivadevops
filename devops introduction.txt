@@ -1,0 +1,21 @@
+introduction to DEVOPS
+DEVOPS is a process 
+DEVOPS is a method
+
+lifecycle of devops is 
+1.plan 2.code 3.build 4.test 5.release 6.deploy 7.operate 8.monitor
+
+note:devops means implementing automation in each and every stage
+
+we have some stages in devops are 
+1.version control:in this we are maintaining different versions of code like github
+2.continupus integration:it is a software develoment process,developers regularly merge their code to the central repo.in this code changes has been done and code build and test afre happen and code runs also happen.
+finally code review,code testing,testing,integration,compile are happen
+3.continuous delivery:deployment the build app to test servers 
+code changes automatically done and tested 
+ready for release for to production
+4.continuous delivery:deployment the test app on the production server for release 
+
+devops allow one team to maintain lifecycle of an application like testing,operations,develoment,deployment
+devops main objective is to shorten the system's development life cycle
+devops is a software approach to get a reliable faster and efficient software
